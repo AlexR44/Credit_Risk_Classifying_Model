@@ -8,4 +8,4 @@ In this analysis notebook, a logistical regression model is first built and trai
 
 As a second phase in the analysis, the training data is balanced by random oversampling, a new logistical regression model is built and trained with this new dataset, and new predictions are made on the remaning 25% of the historical data.
 
-The accuracy of both models are ensuingly compared to assess their performance.
+The accuracies of both models are ensuingly compared to assess their performance.
